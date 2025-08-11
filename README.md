@@ -6,7 +6,9 @@ Front End: Html, CSS
 Back End (Database): Phpmyadmin, MySQL
 
 Database Name: twistnthread
+
 Developed by Sharvari
+
 Recommended PHP Version 5.6 and Newer
 
 Admin Panel: /admin_area 
